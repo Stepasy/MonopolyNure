@@ -33,7 +33,7 @@ namespace Monopoly.Common
 		#region game state
 		public const int GAME_NOT_START = 0;
 		public const int GAME_STARTED = 1;
-		public const int GAME_LIMIT_ROUNDS = 5;
+		public const int GAME_LIMIT_ROUNDS = 5000;
 		#endregion
 
 		#region dice number
