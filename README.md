@@ -51,7 +51,7 @@
 	Unity version: Unity 5.3.x
 	In Unity Editor mode, please run main scene in Scenes folder.
 
-	==== NOTE: For testing, game will over after 5 rounds. =====
+	==== NOTE: For testing, game will over after 5000 rounds. =====
 	All settings are in Common/Constants.cs
 
 
